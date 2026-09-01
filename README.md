@@ -39,6 +39,6 @@ Yeh project **UPI (Unified Payments Interface) transactions** ka analysis aur da
 - Power BI Desktop
 - Excel (data source)
 
-## 📝 License
+## 👤 Author
 
-Feel free to use/modify for learning purposes.
+Sushant Kumar
