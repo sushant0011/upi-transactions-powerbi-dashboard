@@ -1,6 +1,6 @@
 # UPI Transactions – Power BI Dashboard
 
-Yeh project **UPI (Unified Payments Interface) transactions** ka analysis aur dashboard hai, Power BI mein banaya gaya hai. Data **dummy/sample** hai, koi real customer information nahi hai.
+This project involves the analysis and dashboarding of **UPI (Unified Payments Interface) transactions**, created in Power BI. The data is **dummy/sample** data; it does not contain any real customer information.
 
 ## 📁 Project Structure
 
@@ -14,7 +14,7 @@ Yeh project **UPI (Unified Payments Interface) transactions** ka analysis aur da
 
 ## 📊 Dataset Overview
 
-`UPI_Transactions.xlsx` mein ~20,000 rows hain, columns include:
+`UPI_Transactions.xlsx` contains ~20,000 rows, columns include:
 
 - Transaction details: `TransactionID`, `TransactionDate`, `TransactionTime`, `Amount`, `Status`
 - Bank info: `BankNameSent`, `BankNameReceived`, `RemainingBalance`
@@ -23,16 +23,14 @@ Yeh project **UPI (Unified Payments Interface) transactions** ka analysis aur da
 - Merchant info: `MerchantName`, `Purpose`
 - Account numbers (dummy): `CustomerAccountNumber`, `MerchantAccountNumber`
 
-> ⚠️ Note: Saare account numbers aur customer details **dummy/synthetic** hain — koi real financial data nahi hai.
-
 ## 🚀 How to Open
 
-1. [Power BI Desktop](https://powerbi.microsoft.com/desktop/) install karo (free).
-2. Repo clone karo:
+1.Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
+2. clone Repo:
    ```bash
    git clone <your-repo-url>
    ```
-3. `Report_1.pbix` ya `Report_2.pbix` ko Power BI Desktop mein open karo.
+3. `Report_1.pbix` ya `Report_2.pbix` open in Power BI Desktop.
 
 ## 🛠️ Tech Stack
 
